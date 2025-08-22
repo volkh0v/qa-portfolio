@@ -9,7 +9,6 @@ I specialize in **manual testing**, **test case design**, and **Agile QA process
 - 🧪 **Role:** QA Engineer @ Keywords Studios
 - 🎓 **Certification:** ISTQB Foundation Level
 - 📍 **Location:** Poland
-- 📧 **Email:** jakub.tomasz.pawlowski@gmail.com
 - 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jakub-pawłowski-a311152a8/)
 
 ---
